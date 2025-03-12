@@ -1,0 +1,4 @@
+ssh_key/id1_rsa.pub
+ssh_key/id1_rsa
+.env
+/ssh_key
